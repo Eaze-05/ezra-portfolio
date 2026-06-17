@@ -45,7 +45,7 @@ function Hero() {
               View Projects
             </a>
             <a
-              href="/resume.pdf"
+              href="/TIRIVAYI EZRA Resume.pdf"
                download
               className="border border-purple-500 px-6 py-3 rounded-lg hover:bg-purple-500/10"
             >
